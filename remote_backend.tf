@@ -6,3 +6,4 @@ terraform {
       name = "hashicat-aws"
     }
   }
+}
